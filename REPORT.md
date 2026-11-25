@@ -1,10 +1,10 @@
 # Capstone Project Report: SIM-OS
 ## Design and Implementation of an Integrated Operating System Resource Management Simulator
 
-**Course:** B.Tech Computer Science and Engineering (Section B)  
+**Course:** B.Tech Computer Science and Engineering (Section A)  
 **Subject:** Operating Systems Laboratory Capstone  
-**Student Name:** Varun Chauhan  
-**Roll Number:** 2401010276  
+**Student Name:** Dolly  
+**Roll Number:** 2401010196
 **Academic Term:** 2026-2027  
 **Evaluation Weight:** 100 Marks  
 

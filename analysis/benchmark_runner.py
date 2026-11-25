@@ -194,7 +194,7 @@ class BenchmarkRunner:
 
         report_lines = [
             "# SIM-OS Comprehensive Benchmark & Performance Report",
-            "**Author:** Varun Chauhan (2401010276)  ",
+            "**Author:** Dolly (2401010196)  ",
             "**System:** Integrated Python-and-Bash OS Resource Management Simulator\n",
             "---",
             "## 1. CPU Scheduling Performance Comparison\n",

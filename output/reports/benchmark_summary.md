@@ -1,5 +1,5 @@
 # SIM-OS Comprehensive Benchmark & Performance Report
-**Author:** Varun Chauhan (2401010276)  
+**Author:** Dolly (2401010196)  
 **System:** Integrated Python-and-Bash OS Resource Management Simulator
 
 ---

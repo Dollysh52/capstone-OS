@@ -210,6 +210,7 @@ OK (All passed)
 
 ## 7. Submission Artifacts
 
+
 - **Detailed Academic Report**: [`REPORT.md`](REPORT.md)
 - **Execution Traces**: [`output/traces/`](output/traces/)
 - **Visual Comparison Plots**: [`output/charts/`](output/charts/)

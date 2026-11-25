@@ -6,7 +6,7 @@
   • OS Platform     : Linux
   • Kernel Release  : 7.3.5-arch1-1
   • Architecture    : x86_64
-  • Hostname        : varun
+  • Hostname        : Dolly
   • Uptime          : up 3 hours, 34 minutes
 
 [32m[1m[2] CPU Topology & Utilization (/proc/cpuinfo)[0m
@@ -27,11 +27,11 @@
 
   [33mTop 5 Processes by Memory Usage:[0m
   PID      USER       %CPU     %MEM     COMMAND             
-  15678    varun      13.8     4.8      brave               
-  19497    varun      141      4.6      brave               
-  18799    varun      13.0     3.0      antigravity-ide     
-  15724    varun      13.3     2.7      brave               
-  16944    varun      2.8      2.4      brave               
+  15678    Dolly     13.8     4.8      brave               
+  19497    Dolly     141      4.6      brave               
+  18799    Dolly      13.0     3.0      antigravity-ide     
+  15724    Dolly     13.3     2.7      brave               
+  16944    Dolly     2.8      2.4      brave               
 
 [32m[1m[5] Storage & Mount Points (df -h)[0m
   Filesystem           Size       Used       Avail      Use%   Mounted on     

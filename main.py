@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 SIM-OS: Integrated Operating System Resource Management Simulator.
-Author: Varun Chauhan (Roll No: 2401010276)
-Course: B.Tech CSE Sec B - Operating Systems Capstone
+Author: Dolly (Roll No: 2401010196)
+Course: B.Tech CSE Sec A - Operating Systems Capstone
 
 Integrates:
 - CPU Process Scheduling (FCFS, SJF, SRTF, Priority, Round Robin)
@@ -50,8 +50,8 @@ def print_banner():
 {BLUE}{BOLD}========================================================================{RESET}
 {CYAN}{BOLD}   SIM-OS: INTEGRATED OPERATING SYSTEM RESOURCE MANAGEMENT SIMULATOR   {RESET}
 {BLUE}{BOLD}========================================================================{RESET}
-{YELLOW}Student Name :{RESET} Varun Chauhan          {YELLOW}Roll Number :{RESET} 2401010276
-{YELLOW}Course       :{RESET} B.Tech CSE Sec B        {YELLOW}Subject     :{RESET} OS Capstone Project
+{YELLOW}Student Name :{RESET} Dolly        {YELLOW}Roll Number :{RESET} 2401010196
+{YELLOW}Course       :{RESET} B.Tech CSE Sec A       {YELLOW}Subject     :{RESET} OS Capstone Project
 {BLUE}========================================================================{RESET}
 """
     print(banner)
